@@ -6,7 +6,12 @@ Welcome to the Blinkit Analysis Dashboard! This Power BI project dives deep into
 
 ## 📁 Folder Structure
 
-blinkit_analysis_dashboard/ ├── BlinkIT Grocery Data.xlsx # Raw dataset used for analysis ├── blinkit_dashboard.pbix # Power BI dashboard file ├── icons/ # Icons used in the dashboard ├── images/ # Screenshots of the dashboard └── README.md # You're here!
+blinkit_analysis_dashboard/  
+                           ├── BlinkIT Grocery Data.xlsx # Raw dataset used for analysis 
+                           ├── blinkit_dashboard.pbix # Power BI dashboard file 
+                           ├── icons/ # Icons used in the dashboard 
+                           ├── images/ # Screenshots of the dashboard 
+                           └── README.md # You're here!
 
 
 ---
